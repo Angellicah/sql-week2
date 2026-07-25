@@ -1,3 +1,5 @@
+-- Name : Angellicah Wairimu
+-- Date : 25/7/2026
 -- Section A : Building database
 -- Q1: Create a schema
 create schema greenlake_academy;
