@@ -2,7 +2,7 @@
 -- Name : Angellicah Wairimu
 -- Date : 25/7/2026
 -- Section C: Queries
--- ============================================
+-- =============================================
 
 SET search_path TO greenlake_academy;
 
