@@ -2,7 +2,7 @@
 -- Name : Angellicah Wairimu
 -- Date : 25/7/2026
 -- Section B: DML
--- ============================================
+-- =============================================
 
 set search_path to greenlake_academy;
 
